@@ -1,0 +1,153 @@
+.container{
+    width: 1400px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px;
+    height: 80px;
+}
+.header-logo{
+    width: 108px;
+    height: 78px;
+    border: solid 1px red;
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px;
+    height: 520px;
+    align-items: center;
+}
+.text-area{
+    width: 670px;
+    height: 520px;
+    border: solid 1px red;
+}
+.image-area{
+    width: 720px;
+    height: 520px;
+    border: solid 1px blue;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px;
+    height: 520px;
+}
+.about-video{
+    width: 670px;
+    height: 520px;
+    border: solid 1px red; 
+}
+.about-text{
+    width: 720px;
+    height: 520px;
+    border: solid 1px blue;
+}
+.statistics-header{
+    border: solid 2px;
+    height: 185px;
+}
+.stat-text{
+    border: solid 1px blueviolet;
+    height: 180px;
+    width: 710px; 
+    margin-left: 300px;
+}
+.statistics-wrapper{
+    display: flex;
+    justify-content: space-around;
+    border: solid 1px;
+    height: 175px;
+    align-items: center;
+}
+.stat-item{
+    border: solid 1px red;
+    width: 110px;
+    height: 100px;
+}
+.clients-content{
+    height: 240px;
+    border: solid 2px;
+}
+.client-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.client-item{
+    height: 120px;
+    outline: solid 1px brown;
+    width: 25%;
+}
+.service-header{
+    height: 175px;
+    border: solid 2px;
+}
+.service-content{
+    height: 425px;
+    border: solid 2px royalblue;
+}
+.service-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.service-item{
+    height: 165px;
+    outline: solid 1px palegreen;
+    width: 33.33%;
+}
+.port-header{
+    height: 250px;
+    border: solid 2px;
+}
+.port-content{
+    height: 700px;
+    border: solid 2px palevioletred;
+}
+.port-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.port-item{
+    height: 300px;
+    outline: solid 1px green;
+    width: 33.33%;
+}
+.profile-header{
+    height: 450px;
+    border: solid 2px;
+}
+.team-header{
+    height: 165px;
+    border: solid 2px;
+}
+.team-wrapper{
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px darkblue;
+    height: 450px;
+}
+.team-item{
+    border: solid 1px hotpink;
+    height: 400px;
+    width: 300px;
+}
+.gallery-header{
+    height: 175px;
+    border: solid 2px;
+}
+.gallery-content{
+    height: 500px;
+    border: solid 2px khaki;   
+}
+.gallery-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery-item{
+    height: 230px;
+    outline: solid 1px blueviolet;
+    width: 25%;   
+}
